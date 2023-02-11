@@ -1,0 +1,23 @@
+1. Create A web Application that Do the ticket booking for a Movie
+2. App should be able to register multiple movies and the Movie Theater
+3. Each movie theater can have multiple movie halls.
+4. Each movie theater can run multiple shows of different movies through out the day.
+5. Each Movie hall can have n number of rows with each row having exactly 6 isle seats (3 columns).
+6. There can be any number of seats in a row, but should be at least 6. For example - Row1 can have 7 seats, Row2 can have 8 seats.
+
+
+Write APIs for below all features. Use a databe of your choice.
+
+1. CRUD APIs for movie, theater hall layout having details of booked seats and empty seat, theater details, movie price.
+2. A group of friends can together book a seat, which should take movie, time and theater. Seats should be booked together.
+3. If the seats can not be booked together, then it should suggest other movies and time to book the seats together without any gap.
+4. No 2 concurrent request should book the same seat. Should be gracefully handled.
+5. Movie theathers and halls can be register with their layout -> Number of seats with rows and columns 
+
+BONUS APIs (Analytics)
+Given a movie, total tickets booked for a given period of time with GMV. Or just tink something betteer.
+
+
+Deploy it on some free hosting platform like netlify or heroku - Basically it should be a demoable form.
+
+Use GIT and push the code on Github.

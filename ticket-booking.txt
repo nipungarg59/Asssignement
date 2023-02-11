@@ -21,3 +21,5 @@ Given a movie, total tickets booked for a given period of time with GMV. Or just
 Deploy it on some free hosting platform like netlify or heroku - Basically it should be a demoable form.
 
 Use GIT and push the code on Github.
+
+Use any of the language from - Python, GO, Rust, Java. And any choice of framework

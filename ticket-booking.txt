@@ -6,7 +6,7 @@
 6. There can be any number of seats in a row, but should be at least 6. For example - Row1 can have 7 seats, Row2 can have 8 seats.
 
 
-Write APIs for below all features. Use a databe of your choice.
+Write APIs for below all features. Use a databe of your choice. No UI is required, just the APIs
 
 1. CRUD APIs for movie, theater hall layout having details of booked seats and empty seat, theater details, movie price.
 2. A group of friends can together book a seat, which should take movie, time and theater. Seats should be booked together.
